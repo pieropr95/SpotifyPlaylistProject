@@ -7,8 +7,8 @@ from data.spotify_api import SpotifyAPI
 BASE_DIR = os.path.dirname(__file__)
 EXPORT_PATH = os.path.join(BASE_DIR, 'export')
 
-client_id = '0290f57697f147de9b99e5981154d517'
-client_secret = '9518155d73c1409cb5cab90eaadc5cec'
+client_id = '...'
+client_secret = '...'
 
 
 def main():
